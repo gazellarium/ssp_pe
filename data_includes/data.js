@@ -33,9 +33,9 @@ var items = [
                       }],
 
 
-    ["a", "Message", {html: "<h1> blick </h1> <audio controls autoplay src='https://www.w3schools.com/jsref/horse.ogg'> </audio>"},
+    ["a", "Message", {html: "<h1> blick </h1> <audio controls autoplay src='https://github.com/gazellarium/ssp_pe/blob/ibex/data_includes/bnick.mp3'> </audio>"},
           "AcceptabilityJudgment", {s: "blick"}],
-    ["a", "Message", {html: "<h1> bnick </h1> <audio controls autoplay src='https://sites.google.com/site/ssptestibex/st/bnick.mp3'> </audio>" },
+    ["a", "Message", {html: "<h1> bnick </h1> <audio controls autoplay> <source src='https://sites.google.com/site/ssptestibex/st/bnick.mp3' type="audio/mp3"> </audio>" },
           "AcceptabilityJudgment", {s: "bnick"}],
     ["a", "Message", {html: "<h1> bpick </h1> <audio controls autoplay src='https://spellout.net/ibexfarm/ajax/download/SSP_PE/data_includes/bnick.mp3'></audio>"},
           "AcceptabilityJudgment", {s: "bpick"}],
