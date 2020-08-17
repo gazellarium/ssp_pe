@@ -1,0 +1,9 @@
+.message {
+    font-size: 20px;
+    width: 40em;
+    color: white;
+}
+
+.continue-link { text-decoration: none; border: 2px solid #3385ff ; border-radius: 10px}
+.continue-link:hover { background-color: #4d94ff}
+.continue-link:visited { color: #4d94ff; }
