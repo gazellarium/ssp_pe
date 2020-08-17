@@ -19,7 +19,7 @@ jqueryWidget: {
                "Value of 'transfer' option of Message must either be the string 'click' or a number");
 
         if (this.transfer == "click") {
-            this.continueMessage = dget(this.options, "continueMessage", "برای رفتن به مرحله بعد کلیک کنید");
+            this.continueMessage = dget(this.options, "continueMessage", "مرحله بعد");
             this.consentRequired = dget(this.options, "consentRequired", false);
             this.consentMessage = dget(this.options, "consentMessage", "من تمام نکات را خوانده‌ام و آماده انجام آزمون هستم");
             this.consentErrorMessage = dget(this.options, "consentErrorMessage", "باید قبل از ادامه رضایت خود را اعلام کنید");
