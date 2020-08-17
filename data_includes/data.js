@@ -13,7 +13,7 @@ var defaults = [
     },
     "Message", {
         hideProgressBar: false,
-        transfer: "keypress",
+        transfer: "click",
     },
     "Form", {
         hideProgressBar: false,
