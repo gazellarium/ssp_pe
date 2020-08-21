@@ -2,7 +2,8 @@
     font-size: 20px;
     width: 40em;
     color: black;
-    margin: auto;
+    margin-left: 10em,
+    border: 1px, 
 }
 
 .continue-link { 
